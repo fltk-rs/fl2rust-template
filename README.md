@@ -10,7 +10,7 @@ Click `Use this template` on the top right to create a repo using this repo as a
 
 Run from a terminal:
 ```
-$ cargo gen --git https://github.com/moalyousef/fl2rust-template
+$ cargo generate --git https://github.com/moalyousef/fl2rust-template
 ```
 This will prompt you to enter a project name.
 
