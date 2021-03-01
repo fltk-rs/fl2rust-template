@@ -16,7 +16,7 @@ This will prompt you to enter a project name.
 
 Please check the [fltk-rs repo](https://github.com/MoAlyousef/fltk-rs) for the necessary dependencies required for creating fltk-rs applications.
 
-You can then open the fl file using:
+You can then open the fl file with fluid using:
 ```
 $ fluid gui/mainview.fl &
 ```
