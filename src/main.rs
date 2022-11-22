@@ -1,5 +1,8 @@
 use fltk::{prelude::*, *};
-mod mainview;
+
+mod mainview {
+    fl2rust_macro::include_ui!("gui/mainview.fl");
+}
 
 fn main() {
     let app = app::App::default().with_scheme(app::Scheme::Gtk);
