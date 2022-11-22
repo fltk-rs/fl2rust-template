@@ -7,6 +7,6 @@ edition = "2021"
 
 [dependencies]
 fltk = "1"
+fl2rust-macro = "0.5"
 
-[build-dependencies]
-fl2rust = "0.4"
+
